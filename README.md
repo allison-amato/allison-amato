@@ -6,7 +6,7 @@ I'm a product manager who prototypes. I use Claude Code, Cursor, and v0 to turn 
 
 ### 🛠 Things I've built
 
-**[GuardaFit](https://github.com/allison-amato/formline)** · [Live demo →](https://guardaforma.vercel.app)
+**[GuardaFit](https://github.com/allison-amato/GuardaFit)** · [Live demo →](https://guardaforma.vercel.app)
 Client management and workout programming for personal trainers. Bilingual (EN/ES) exercise library, weekly plan builder, and one-click Excel export.
 
 **[Creativo](https://github.com/allison-amato/Creativo)**
