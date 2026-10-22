@@ -12,6 +12,9 @@ Client management and workout programming for personal trainers. Bilingual (EN/E
 **[Creativo](https://github.com/allison-amato/Creativo)**
 Operations CRM for a creative studio: students and guardians, event scheduling, timesheets, payroll, and retail inventory.
 
+**Interview Prep Hub** · Private
+A job-search hub I built as a Claude artifact: pipeline, story library, and a prep sheet for every interview round. Its AI assistant updates the hub through tools, runs mock interviews, and is measured with usage logging and a small eval set.
+
 ### 🧰 Built with
 Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind
 
